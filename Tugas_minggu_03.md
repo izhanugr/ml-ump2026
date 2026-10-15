@@ -1,4 +1,4 @@
-# Tugas Minggu 1: Setup Environment dan Hello World di Colab
+# Tugas Minggu 3: Setup Environment dan Hello World di Colab
 
 **Tenggat Waktu:** Lihat di LMS (Google Classroom) 
 **Bobot:** 2% dari total nilai akhir  
@@ -65,7 +65,7 @@ Sebelum mempelajari algoritma machine learning yang kompleks, hal paling fundame
     Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Pengantar Machine Learning** Semester Ganjil 2025/2026.
 
     ## Daftar Tugas
-    - **Minggu 1:** [Setup Environment - Hello World](https://colab.research.google.com/github/[Username_Github_Anda]/[NIM]-Pengantar-ML/blob/main/Tugas_Minggu_1_Hello_World.ipynb)
+    - **Minggu 3:** [Setup Environment - Hello World](https://colab.research.google.com/github/[Username_Github_Anda]/[NIM]-Pengantar-ML/blob/main/Tugas_Minggu_1_Hello_World.ipynb)
     ````
 
     Ganti `[Username_Github_Anda]` dengan username GitHub Anda yang sebenarnya (biasanya muncul di URL profil Anda).
@@ -80,7 +80,7 @@ Sebelum mempelajari algoritma machine learning yang kompleks, hal paling fundame
 
 | Kriteria | Bobot | Keterangan |
 | :--- | :---: | :--- |
-| **Kebenaran & Kelengkapan** | 60% | Repository dibuat dengan nama yang sesuai (`[NIM]-Pengantar-ML`), berisi file `README.md`, dan notebook `Tugas_Minggu_1_Hello_World.ipynb` yang dapat diakses dan berjalan dengan benar (menampilkan nama dan NIM). |
+| **Kebenaran & Kelengkapan** | 60% | Repository dibuat dengan nama yang sesuai (`[NIM]-Pengantar-ML`), berisi file `README.md`, dan notebook `Tugas_Minggu_3_Hello_World.ipynb` yang dapat diakses dan berjalan dengan benar (menampilkan nama dan NIM). |
 | **Ketepatan Waktu** | 20% | Tugas dikumpulkan sebelum tenggat waktu. |
 | **Kualitas Dokumentasi** | 20% | `README.md` di repository rapi, informatif, tertata dengan baik, dan telah dikustomisasi. |
 
