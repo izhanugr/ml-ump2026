@@ -22,7 +22,7 @@ Sebelum mempelajari algoritma machine learning yang kompleks, hal paling fundame
 
 ### Langkah 1: Setup GitHub
 1.  Jika belum memiliki akun, buat akun GitHub di [github.com](https://github.com/).
-2.  Setelah login, buat sebuah **repository publik** baru dengan nama `[NIM]-Pengantar-ML` (Contoh: `1234567890-Pengantar-ML`).
+2.  Setelah login, buat sebuah **repository publik** baru dengan nama `[NIM]-[Nama]-Pengantar-ML` (Contoh: `1234567890-[fulan]-Pengantar-ML`).
 3.  Pada saat pembuatan, centang opsi **"Add a README file"**.
 4.  Pada deskripsi repository, tulis: `Repository untuk mata kuliah Pengantar Machine Learning - [Nama Lengkap Anda] - [NIM]`.
 
@@ -30,7 +30,7 @@ Sebelum mempelajari algoritma machine learning yang kompleks, hal paling fundame
 1.  Buka [Google Colab](https://colab.research.google.com/).
 2.  Login dengan akun Google Anda (disarankan menggunakan akun institusi/kampus).
 3.  Buat **notebook baru** dengan klik `File` > `New notebook`.
-4.  Beri judul notebook menjadi `Tugas_Minggu_1_Hello_World.ipynb`.
+4.  Beri judul notebook menjadi `Tugas_Minggu_3_Hello_World.ipynb`.
 5.  Pada *cell* pertama, tulis kode Python sederhana berikut:
     ```python
     print("Hello, World!")
@@ -45,9 +45,9 @@ Sebelum mempelajari algoritma machine learning yang kompleks, hal paling fundame
 1.  Di Google Colab, pada menu atas, klik **`File`** -> **`Save a copy in GitHub`**.
 2.  Anda akan diminta untuk mengotorisasi (menyetujui) Colab untuk mengakses akun GitHub Anda (jika belum). Ikuti prosesnya.
 3.  Pada pop-up yang muncul:
-    *   Pilih repository yang baru saja Anda buat (`[NIM]-Pengantar-ML`).
+    *   Pilih repository yang baru saja Anda buat (`[NIM]-[Nama]-Pengantar-ML`).
     *   Untuk branch, biarkan `main`.
-    *   Pada kolom "Commit message", tulis: `"Commit pertama: Menambahkan Tugas Minggu 1"`.
+    *   Pada kolom "Commit message", tulis: `"Commit pertama: Menambahkan Tugas Minggu 3"`.
     *   Pastikan opsi **`Include a link to Colab`** dicentang.
 4.  Klik **`OK`**. Colab akan secara otomatis menyimpan notebook Anda ke repository GitHub dan membuka tab baru menuju file tersebut di GitHub.
 
